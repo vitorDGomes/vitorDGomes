@@ -41,3 +41,6 @@ Passionate about innovation and always looking to learn new technologies to prov
   <a href="https://www.linkedin.com/in/vitor-dandrea-gomes-6b64a5247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  <br>
+  <img height="350 rem" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
+</div>
