@@ -4,7 +4,6 @@
 
 - 🌱 Studying and improving my skills in iOS development, Machine Learning and Design.
 - 🚀 Student at Uninter .
-- 🧑🏻‍💻 iOS Developer Intern at Apple Developer Academy | IFCE.
 - 👥 My linkedin: https://www.linkedin.com/in/vitor-dandrea-gomes-6b64a5247/
 - 📫 My email: vitordandreagomes@gmail.com
 
