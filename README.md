@@ -4,7 +4,7 @@
 
 - 🌱 Studying and improving my skills in iOS development, Machine Learning and Design.
 - 🚀 Student at Uninter .
-- 👥 My linkedin: https://www.linkedin.com/in/vitor-dandrea-gomes-6b64a5247/
+- 👥 My linkedin: https://www.linkedin.com/in/vitor-dandrea-gomes/
 - 📫 My email: vitordandreagomes@gmail.com
 
 Passionate about innovation and always looking to learn new technologies to provide creative and efficient solutions for projects.
