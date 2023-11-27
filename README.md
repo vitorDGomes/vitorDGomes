@@ -9,11 +9,6 @@
 
 Passionate about innovation and always looking to learn new technologies to provide creative and efficient solutions for projects.
 <div align="center"
-
-<div>
-<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=vitorDGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorDGomes&layout=compact&langs_count=16&theme=dark"/>	
-</div>
 <br/>
 
 <div align="center">
