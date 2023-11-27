@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+VitorDGomes+;I'm+Front-end+Developer+Student)](https://git.io/typing-svg)
+
 ## Hello, Devs!! 👋
 ### O meu nome é Vitor, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
-<h1 align="center">Front-end Developer</h1>
 
 - 🌱 Studying and improving my skills in iOS development, Machine Learning and Design.
 - 🚀 Student at Uninter .
