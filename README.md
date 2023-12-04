@@ -3,10 +3,16 @@
 ## Hello, Devs!! 👋
 ### O meu nome é Vitor, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🌱 Studying and improving my skills in iOS development, Machine Learning and Design.
-- 🚀 Student at Uninter .
-- 👥 My linkedin: https://www.linkedin.com/in/vitor-dandrea-gomes/
-- 📫 My email: vitordandreagomes@gmail.com
+#### Ferramentas que uso:
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
+[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
+[<img height="48px" width="48px" alt="Icone Beekeeper" src="https://i.postimg.cc/j5sT81d4/beekeeperstudio.png"/>](https://www.beekeeperstudio.io)
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone Adobe Ilustrator" src="https://skillicons.dev/icons?i=ai"/>](https://www.adobe.com/br/products/illustrator.html)
+[<img height="48px" width="48px" alt="Icone Adode Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
+
 
 Passionate about innovation and always looking to learn new technologies to provide creative and efficient solutions for projects.
 <div align="center"
