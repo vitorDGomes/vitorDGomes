@@ -7,9 +7,6 @@
 
 - 🔰  Sou de Casca, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
-- 🧠 Estudante de 
-- 🏦 Atualmente trabalho como Analista de Estratégia e Inovação na UzziPay, uma Instituição de Pagamentos com Sede em Porto Velho/RO e São Paulo/SP
-
 ##
 
 #### Estou aprendendo sobre:
