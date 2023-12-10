@@ -6,7 +6,7 @@
 ### O meu nome é Vitor, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Casca, Brasil
-- ⚡ Apaixonado por Música e Tecnologia
+- 💻 Apaixonado por Música e Tecnologia
 ##
 
 #### Estou aprendendo sobre:
@@ -28,6 +28,6 @@
 ##
 
 #### Como entrar em contato comigo:
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vitor-dandrea-gomes)
+  <a href="https://www.linkedin.com/in/vitor-dandrea-gomes-6b64a5247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:vitordandreagomes@icloud.com)
 
