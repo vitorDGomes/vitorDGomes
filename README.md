@@ -7,7 +7,6 @@
 
 - 🔰  Sou de Casca, Brasil
 - 💻 Apaixonado por Música e Tecnologia
-- 
 
 
 ##
