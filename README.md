@@ -7,6 +7,9 @@
 
 - 🔰  Sou de Casca, Brasil
 - 💻 Apaixonado por Música e Tecnologia
+- 
+
+
 ##
 
 #### Estou aprendendo sobre:
@@ -31,3 +34,8 @@
   <a href="https://www.linkedin.com/in/vitor-dandrea-gomes-6b64a5247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:vitordandreagomes@icloud.com)
 
+##
+
+ <p align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif" width="600" alt="Gamer Room">
+</p>
