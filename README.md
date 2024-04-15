@@ -16,6 +16,9 @@
 
 
 [<img height="48px" width="48px" alt="Icone Swift" src="https://skillicons.dev/icons?i=swift"/>](https://www.swift.org//)
+[<img height="48px" width="48px" alt="Icone Php" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/)
+[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/)
+
 
 ##
 
@@ -27,6 +30,7 @@
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
+[<img height="48px" width="48px" alt="Icone Mysql" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 
 
 ##
