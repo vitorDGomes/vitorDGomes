@@ -17,7 +17,6 @@
 
 [<img height="48px" width="48px" alt="Icone Swift" src="https://skillicons.dev/icons?i=swift"/>](https://www.swift.org//)
 [<img height="48px" width="48px" alt="Icone Php" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/)
-[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/)
 
 
 ##
