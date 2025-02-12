@@ -21,6 +21,11 @@
 
 ##
 
+## Sistemas operacionais com que trabalho 
+
+[<img height="48px" width="48px" alt="Icone windows" src="https://skillicons.dev/icons?i=windows"/>].
+
+
 #### Ferramentas que uso:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
