@@ -23,8 +23,8 @@
 
 ## Sistemas operacionais com que trabalho 
 
-<img height="48px" width="48px" alt="Icone windows" src="https://skillicons.dev/icons?i=windows"/>.
-<img height="48px" width="48px" alt="Icone linux" src="https://skillicons.dev/icons?i=linux"/>.
+<img height="48px" width="48px" alt="Icone windows" src="https://skillicons.dev/icons?i=windows"/>
+<img height="48px" width="48px" alt="Icone linux" src="https://skillicons.dev/icons?i=linux"/>
 
 
 #### Ferramentas que uso:
