@@ -21,10 +21,13 @@
 
 ##
 
-## Sistemas operacionais com que trabalho 
+### Sistemas operacionais com que trabalho 
 
-<img height="48px" width="48px" alt="Icone windows" src="https://skillicons.dev/icons?i=windows"/>
-<img height="48px" width="48px" alt="Icone linux" src="https://skillicons.dev/icons?i=linux"/>
+([<img height="48px" width="48px" alt="Icone windows" src="https://skillicons.dev/icons?i=windows"/>])
+([<img height="48px" width="48px" alt="Icone linux" src="https://skillicons.dev/icons?i=linux"/>])
+([<img height="48px" width="48px" alt="Icone apple" src="https://skillicons.dev/icons?i=apple"/>])
+
+
 
 
 #### Ferramentas que utilizo:
@@ -36,6 +39,8 @@
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone Mysql" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 [<img height="48px" width="48px" alt="Icone ubuntu" src="https://skillicons.dev/icons?i=ubuntu"/>](https://ubuntu.com/)
+[<img height="48px" width="48px" alt="Icone raspberrypi" src="https://skillicons.dev/icons?i=raspberrypi"/>](https://www.raspberrypi.com/)
+
 
 
 
