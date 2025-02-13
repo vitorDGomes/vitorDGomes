@@ -21,7 +21,7 @@
 
 ##
 
-### Sistemas operacionais com que trabalho 
+### **Sistemas operacionais com que trabalho**: 
 
 [<img height="48px" width="48px" alt="Icone windows" src="https://skillicons.dev/icons?i=windows"/>](https://www.windows.org/)
 [<img height="48px" width="48px" alt="Icone linux" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
@@ -30,7 +30,7 @@
 
 
 
-#### Ferramentas que utilizo:
+#### **Ferramentas que utilizo**:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
