@@ -25,7 +25,7 @@
 
 [<img height="48px" width="48px" alt="Icone windows" src="https://skillicons.dev/icons?i=windows"/>](https://www.windows.org/)
 [<img height="48px" width="48px" alt="Icone linux" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
-[<img height="48px" width="48px" alt="Icone apple" src="https://skillicons.dev/icons?i=apple"/>](https://www.apple.com/).
+[<img height="48px" width="48px" alt="Icone apple" src="https://skillicons.dev/icons?i=apple"/>](https://www.apple.com/)
 
 
 
